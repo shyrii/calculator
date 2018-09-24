@@ -1,0 +1,43 @@
+.calculate{
+    height: 420px;
+    width: 350px;
+    background-color:#ff85d2;
+    border-radius: 10px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%)
+}
+
+.button{
+    width:70px;
+    height:50px;
+    background-color: antiquewhite;
+    margin: 5px 1px;
+    color:#ff85d2
+
+}
+
+.buttons{
+    text-align: center;
+    margin: 5px auto;
+    width:300px;
+
+}
+
+h1{
+    font-family:'Oleo Script', cursive;
+    font-size: 25px;
+    color:#f2b8ea;
+    text-align: center
+}
+
+.display{
+    height: 30px;
+    width:295px;
+    background-color: beige;
+    text-align: right;
+    margin-top: 10px ;
+    margin-left:24px
+   
+}
