@@ -1,3 +1,3 @@
 # calculator
 
-a calculator by shyrii
+a calculator by shyrii.
